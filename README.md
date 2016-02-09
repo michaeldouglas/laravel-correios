@@ -1,5 +1,6 @@
 ## Laravel Correios cálculo de prazos
 
+[![Build Status](https://travis-ci.org/michaeldouglas/laravel-correios.svg?branch=master)](https://travis-ci.org/michaeldouglas/laravel-correios)
 [![Total Downloads](https://poser.pugx.org/michael/laravel-correios/downloads)](https://poser.pugx.org/michael/laravel-correios/downloads)
 [![Latest Unstable Version](https://poser.pugx.org/leaphly/cart-bundle/v/unstable.svg)](//packagist.org/packages/michael/laravel-correios)
 [![License](https://poser.pugx.org/leaphly/cart-bundle/license.svg)](https://packagist.org/packages/michael/laravel-correios)
