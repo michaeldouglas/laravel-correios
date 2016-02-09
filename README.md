@@ -1,6 +1,11 @@
-## Laravel cálculo de prazos
+## Laravel Correios cálculo de prazos
 
-O laravel-correios consome os serviços do Correios e prove uma forma
+[![Total Downloads](https://poser.pugx.org/michael/laravel-correios/downloads)](https://poser.pugx.org/michael/laravel-correios/downloads)
+[![Latest Unstable Version](https://poser.pugx.org/leaphly/cart-bundle/v/unstable.svg)](//packagist.org/packages/michael/laravel-correios)
+[![License](https://poser.pugx.org/leaphly/cart-bundle/license.svg)](https://packagist.org/packages/michael/laravel-correios)
+[![Code Climate](https://codeclimate.com/github/michaeldouglas/laravel-correios/badges/gpa.svg)](https://codeclimate.com/github/michaeldouglas/laravel-correios)
+
+O Laravel Correios consome os serviços do Correios e prove uma forma
 simples de gerar os cálculos de prazo de entrega para a sua empresa, loja ou etc.
 
 ## Manual Integração dos Correios
@@ -25,14 +30,13 @@ simples de gerar os cálculos de prazo de entrega para a sua empresa, loja ou et
 Abra o arquivo `composer.json` e insira a seguinte instrução:
 
     "require": {
-        "michael/laravelcorreios": "dev-master"
+        "michael/laravel-correios": "dev-master"
     }
 
 Após inserir no require o `Laravel Correios`, você deverá executar o comando:
 
     composer update
 
-
 Ou execute o comando:
 
-    composer require michael/laravelcorreios
+    composer require michael/laravel-correios
