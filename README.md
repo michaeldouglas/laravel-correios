@@ -5,6 +5,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/leaphly/cart-bundle/v/unstable.svg)](//packagist.org/packages/michael/laravel-correios)
 [![License](https://poser.pugx.org/leaphly/cart-bundle/license.svg)](https://packagist.org/packages/michael/laravel-correios)
 [![Code Climate](https://codeclimate.com/github/michaeldouglas/laravel-correios/badges/gpa.svg)](https://codeclimate.com/github/michaeldouglas/laravel-correios)
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/0d80d5d5af844ee58cf5fa4c2a813c63)](https://www.codacy.com/app/michaeldouglas010790/laravel-correios)
 
 O Laravel Correios consome os serviços do Correios e prove uma forma
 simples de gerar os cálculos de prazo de entrega para a sua empresa, loja ou etc.
